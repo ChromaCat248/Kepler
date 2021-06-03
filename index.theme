@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Kepler
+Comment=Kepler GTK theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Kepler
+GtkTheme=Kepler
+IconTheme=Kepler
+MetacityTheme=Kepler
